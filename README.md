@@ -9,6 +9,10 @@ Instruments can be saved as a json instrument definition file
 Examples:
 ![Examples](https://github.com/tnnovak/GaugeCreatorRelease/blob/main/Examples.png?raw=true)
 
+![Screen shot](https://github.com/tnnovak/GaugeCreatorRelease/blob/main/TargetAltimeterIndicatorLinear?raw=true)
+
+![Screen shot](https://github.com/tnnovak/GaugeCreatorRelease/blob/main/VerticalSpedIndicatorLinear.png?raw=true)
+
 Download the last release Setup here:
 [GaugeCreatorReleaseSetupV1.0.zip](https://github.com/tnnovak/GaugeCreatorRelease/releases/tag/v1.0)
 
