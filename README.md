@@ -1,1 +1,20 @@
 # Gauge Creator Tool to create Gauge Instruments Backgrounds 
+
+Gauge Creator is a simple tool to create analog gauge backrounds images, like the ones used in aircrafts and other types of vehicles or equipaments.<br>
+It can create circular and linear scales with different font,sizes,styles, colors, ranges etc that can be exported to an image file to be used in other projects<br>
+Instruments created can be saved as a json definition file
+
+![Screen shot](https://github.com/tnnovak/GaugeCreatorRelease/blob/main/Screenshot1.png?raw=true)
+
+Examples:
+![Examples](https://github.com/tnnovak/GaugeCreatorRelease/blob/main/Examples.png?raw=true)
+
+Download the last release Setup here:
+[GaugeCreatorReleaseSetupV1.0.zip](https://github.com/tnnovak/GaugeCreatorRelease/releases/tag/v1.0)
+
+Gauge Creator App needs .NET framework 4.7.2 installed 
+
+
+
+
+
