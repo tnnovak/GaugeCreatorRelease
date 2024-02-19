@@ -6,7 +6,7 @@ It can create circular and linear scales with different font,sizes,styles, color
 ![Screen shot](https://github.com/tnnovak/GaugeCreatorRelease/blob/main/Screenshot1.png?raw=true)
 
 Download the last release Setup here:
-LINK
+[GaugeCreatorReleaseSetupV1.0.zip](https://github.com/tnnovak/GaugeCreatorRelease/releases/tag/v1.0)
 
 Gauge Creator App needs .NET framework 4.7.2 installed 
 
