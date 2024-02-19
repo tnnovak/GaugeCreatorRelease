@@ -10,7 +10,7 @@ Instruments can be saved as a json instrument definition file
 
 ![Examples](https://github.com/tnnovak/GaugeCreatorRelease/blob/main/Examples.png?raw=true)
 
-<img src="https://github.com/tnnovak/GaugeCreatorRelease/blob/main/VerticalSpedIndicatorLinear.png" width=50% height=50%>
+<img src="https://github.com/tnnovak/GaugeCreatorRelease/blob/main/VerticalSpedIndicatorLinear.png" width="50px" height="400px">
 
 ## Download 
 
