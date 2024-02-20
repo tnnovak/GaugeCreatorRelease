@@ -1,4 +1,4 @@
-# Gauge Creator Tool to create Gauge Instruments Backgrounds 
+# Gauge Creator Tool to create Instrument Dials Backgrounds 
 
 Gauge Creator is a simple tool to create analog dail backround images, like the ones used in aircrafts, vehicles or other types of equipament.<br>
 It can create circular and linear scales with different font,sizes,styles,colors,ranges etc that can be exported to an image file to be used in other projects<br>
